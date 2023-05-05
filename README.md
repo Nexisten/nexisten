@@ -1,6 +1,6 @@
-### Hello, i'm Nexisten 👋
+### @ Hello, i'm Nexisten 👋
 
-### Contact methods 📫
+### @ Contact methods 📫
 Discord: Nexisten#5929
 
 <!--

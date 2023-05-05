@@ -1,8 +1,4 @@
-### @ Hello, i'm Nexisten 👋
-
-### @ Contact methods 📫
-Discord: Nexisten#5929
-
+### Hello, i'm Nexisten 👋
 <!--
 **Nexisten/nexisten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
